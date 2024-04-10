@@ -1,5 +1,8 @@
 # WebLearn
 -------------------------------------
+
+[![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/WebLearn)](https://github.com/Coconut-Aero/WebLearn/commits/master)
+
 A learning repository for Coconut-Aero to learn HTML/CSS/JavaScript
 
 Updated 2024-3-29 21:22 CST
