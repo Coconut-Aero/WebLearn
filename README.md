@@ -2,7 +2,7 @@
 -------------------------------------
 
 [![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/WebLearn)](https://github.com/Coconut-Aero/WebLearn/commits/master)
-![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)
+[![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)](https://github.com/Coconut-Aero)
 
 A learning repository for Coconut-Aero to learn HTML/CSS/JavaScript
 
